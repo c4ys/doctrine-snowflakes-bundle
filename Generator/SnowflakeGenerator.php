@@ -4,7 +4,7 @@
  * Author: Kai Grassnick <info@kai-grassnick.de>
  ******************************************************************************/
 
-namespace KaiGrassnick\DoctrineSnowflakeBundle\Doctrine\Generator;
+namespace KaiGrassnick\DoctrineSnowflakeBundle\Generator;
 
 
 use Doctrine\ORM\EntityManagerInterface;
@@ -13,7 +13,7 @@ use Doctrine\ORM\Id\AbstractIdGenerator;
 /**
  * Class SnowflakeGenerator
  *
- * @package KaiGrassnick\DoctrineSnowflakeBundle\Doctrine\Generator
+ * @package KaiGrassnick\DoctrineSnowflakeBundle\Generator
  */
 class SnowflakeGenerator extends AbstractIdGenerator
 {

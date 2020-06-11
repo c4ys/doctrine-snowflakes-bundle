@@ -1,9 +1,14 @@
 {
   "name": "kaigrassnick/doctrine-snowflake-bundle",
   "type": "symfony-bundle",
-  "description": "This Bundle provides a Snowflake Wrapper for Symfony",
+  "description": "This Bundle provides an Snowflake-ID Generator for Doctrine",
   "keywords": [
-    "snowflake"
+    "snowflake",
+    "doctrine",
+    "symfony",
+    "symfony5",
+    "symfony-bundle",
+    "bundle"
   ],
   "homepage": "https://gitlab.com/kaigrassnickpublic/symfony/bundles/doctrine-snowflake-bundle",
   "license": "MIT",
