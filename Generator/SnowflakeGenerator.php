@@ -27,6 +27,6 @@ class SnowflakeGenerator extends AbstractIdGenerator
      */
     public function generate(EntityManagerInterface $em, $entity): string
     {
-        return (new \KaiGrassnick\Generator\SnowflakeGenerator())->generateSnowflake();
+        return (new \KaiGrassnick\SnowflakeBundle\Generator\SnowflakeGenerator())->generateSnowflake();
     }
 }
