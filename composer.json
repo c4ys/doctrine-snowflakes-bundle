@@ -28,7 +28,7 @@
     "php": "^7.4",
     "kaigrassnick/snowflake-bundle": "^1.0",
     "symfony/framework-bundle": "^5.0",
-    "symfony/orm-pack": "^1.0"
+    "symfony/orm-pack": "1.0.8 || ^2.0"
   },
   "config": {
     "sort-packages": true
