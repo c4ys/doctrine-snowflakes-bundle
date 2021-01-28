@@ -25,7 +25,7 @@
     "exclude-from-classmap": []
   },
   "require": {
-    "php": "^7.4",
+    "php": "^7.4|^8.0",
     "kaigrassnick/snowflake-bundle": "^1.0",
     "symfony/framework-bundle": "^5.0",
     "symfony/orm-pack": "^2.0"
