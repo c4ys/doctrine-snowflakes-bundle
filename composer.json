@@ -1,5 +1,5 @@
 {
-  "name": "kaigrassnick/doctrine-snowflake-bundle",
+  "name": "c4ys/doctrine-snowflakes-bundle",
   "type": "symfony-bundle",
   "description": "This Bundle provides an Snowflake-ID Generator for Doctrine",
   "keywords": [
